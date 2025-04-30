@@ -28,7 +28,7 @@ Staff Tracker is a CRUD (Create, Read, Update, Delete) application built with Sp
 - *IDE*: Eclipse
 
   ## Dependencies
-### 1. Backend(Python)
+
 1.spring-webmvc
 2.spring-context
 3.spring-jdbc
